@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "ralovij696@wikfee.com",
+    "email": "dodac27818@tsderp.com",
     "password": "ab12cd34",
     "2FASecret": "",
     "i_user": "",
@@ -16,18 +16,14 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "100077513002567",
-    "",
-    ""
-  ],
+  "adminBot": ["100077513002567", "", ""],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ｌｕｃｙ💜",
-  "prefix": ".",
+  "nickNameBot": "Junpi 🖤",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
